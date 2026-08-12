@@ -1,13 +1,16 @@
 def is_valid_number(n, base):
 
+    # Criando lista contendo os caracteres presentes nas bases de 1 a 36.
     bases = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
+    # Verfiicando existência de cada caracter da string dentro da lista cortada de acordo com a base definida
     for i in n.lower():
         if i in bases[:base]:
             continue
         return False
     return True
 
+# Testando a função
 print(is_valid_number("10101", 2))
 print(is_valid_number("10201", 2))
 print(is_valid_number("76543210", 8))
