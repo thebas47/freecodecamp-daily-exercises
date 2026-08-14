@@ -6,6 +6,9 @@ A ideia do repositório é manter o exercício constante de programação, regis
 ## Exercícios Concluídos
 
 **1 - Base Check** -> Programa capaz de verificar a integridade na base de caracteres em determinada string.
+
 **2 - Fibonacci Sequence** -> Função pra montar a sequência de Fibonacci no tamanho especificado pelo usuário.
+
+**3 - Space Jam** -> Função capaz de montar uma String personalizada independente do conteúdo da String.
 
 _este repositório está em constante atualização conforme avanço nos desafios_
