@@ -11,4 +11,6 @@ A ideia do repositório é manter o exercício constante de programação, regis
 
 **3 - Space Jam** -> Função capaz de montar uma String personalizada independente do conteúdo da String.
 
+**4 - Video Storage** -> Programa destinado a calcular a quantia de arquivos de determinados tamanhos e unidades que cabe em determinados discos de armazenamento.
+
 _este repositório está em constante atualização conforme avanço nos desafios_
