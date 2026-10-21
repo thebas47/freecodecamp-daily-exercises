@@ -13,4 +13,6 @@ A ideia do repositório é manter o exercício constante de programação, regis
 
 **4 - Video Storage** -> Programa destinado a calcular a quantia de arquivos de determinados tamanhos e unidades que cabe em determinados discos de armazenamento.
 
-_este repositório está em constante atualização conforme avanço nos desafios_
+**5 - Thermostat Adjust** -> Programa de conversão de Fahrenheits pra Celsius retornando o valor necessário de ajuste pra alcançar a temperatura desejada.
+
+_este repositório está em constante atualização conforme conclusão dos desafios_
